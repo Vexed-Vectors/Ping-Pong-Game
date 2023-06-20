@@ -1,0 +1,16 @@
+*{
+    font-family: 'Inter', sans-serif;
+    font-family: 'Oswald', sans-serif;
+}
+body{
+    background-color: whitesmoke;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    position: fixed;
+    width: 100%;
+    
+}
